@@ -8,10 +8,10 @@ next js typescript에서 클론 코딩 하고 이걸 내 홈페이지에서도 �
 
 [ https://www.coderrocketfuel.com/article/add-twitter-card-data-to-a-next-js-and-react-website ]
 
-First, run the development server:
+서버 실행 방법
 
 ```bash
 npm run dev
 # or
-yarn dev
+yarn dev --> 난 이걸 쓴다.
 ```
