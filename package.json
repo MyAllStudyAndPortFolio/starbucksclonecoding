@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@material/button": "^14.0.0",
+    "material-components-web": "^14.0.0",
+    "material-icons-react": "^1.0.4",
     "next": "13.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"

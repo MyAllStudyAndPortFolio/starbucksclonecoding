@@ -8,6 +8,9 @@ next js typescript에서 클론 코딩 하고 이걸 내 홈페이지에서도 �
 
 [ https://www.coderrocketfuel.com/article/add-twitter-card-data-to-a-next-js-and-react-website ]
 
+메테리얼 아이콘 react 사용 방법은 이 라이브러리를 보면 된다.
+[https://www.npmjs.com/package/material-icons-react]
+
 서버 실행 방법
 
 ```bash
